@@ -1,0 +1,9 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-reimu'
+
+
+[markup.highlight]
+guessSyntax = true
+noClasses = false

@@ -1,0 +1,57 @@
+categories: Loại
+search: Tìm kiếm
+tags: Tags
+tagcloud: Tag Cloud
+tweets: Tweets
+prev: Prev
+next: Next
+comment: Lượt bình luận
+reading: Lượt xem
+archive_a: Thành tựu
+archive_b: "Thành tựu: {{ . -}}"
+page: "Trang {{ . -}}"
+recent_posts: Những bài viết gần đây
+newer: Mới
+older: Cũ
+share: Chia sẻ
+powered_by: Được thực hiện bởi
+rss_feed: RSS Feed
+category: Loại
+tag: Tag
+toc: Contents
+
+home: Trang chủ
+about: Về tôi
+friend: Bạn bè
+archives: Thành tựu
+
+sidebar:
+  post: Bài viết
+  category: Loại
+  tag: Tags
+
+not_found:
+  title: 4 0 4 (ﾟ⊿ﾟ)ﾂ
+  subtitle: NOT FOUND
+
+post:
+  count:
+    one: "{{- . }} word"
+    other: "{{- . }} words"
+  time:
+    one: "{{- . }} min"
+    other: "{{- . }} mins"
+
+busuanzi:
+  pv: Number of visits
+  uv: Number of visitors
+
+sticky: Sticky
+
+service_worker:
+  title: New version found
+  content: The website seems to have new content, do you want to update?
+  confirm: Cập nhật
+  cancel: Hủy
+
+sponsor: Sponsor

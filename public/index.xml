@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 11:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bắt đầu học Java</title>
+      <link>//localhost:1313/post/stater/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/stater/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;a. Cài đặt môi trường&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tải và cài đặt JDK (Java Development Kit) từ Oracle.&lt;/li&gt;&#xA;&lt;li&gt;Cài đặt IDE như IntelliJ IDEA, Eclipse, hoặc VS Code để viết và chạy mã Java.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;b. Các tài liệu tham khảo&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sách: &amp;ldquo;Head First Java&amp;rdquo; của Kathy Sierra.&lt;/li&gt;&#xA;&lt;li&gt;Website: GeeksforGeeks, Oracle Java Documentation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;c. Viết chương trình &amp;ldquo;Hello World&amp;rdquo; đầu tiên&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Java&#34; data-lang=&#34;Java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;nc&#34;&gt;HelloWorld&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;     &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;static&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;args&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;            &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;out&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;       &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Các khái niệm cơ bản trong JavaScript</title>
+      <link>//localhost:1313/post/basicmeaningjs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/basicmeaningjs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Biến (Variables): JavaScript có ba cách khai báo biến:&lt;/strong&gt; var, let, và const. var là cách khai báo biến truyền thống, trong khi let và const được giới thiệu trong ES6 với phạm vi khối (block scope).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kiểu dữ liệu (Data Types):&lt;/strong&gt; JavaScript có một số kiểu dữ liệu cơ bản như:&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Primitive types: Number, String, Boolean, Null, Undefined, Symbol, BigInt.&lt;/li&gt;&#xA;&lt;li&gt;Non-primitive types: Object, Array, Function.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Câu lệnh điều kiện (Conditionals):&lt;/strong&gt; JavaScript sử dụng các câu lệnh điều kiện như if, else, switch để kiểm tra và quyết định hành động dựa trên các điều kiện.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Các ứng dụng chính của JavaScript</title>
+      <link>//localhost:1313/post/mainfeaturesjs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/mainfeaturesjs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phát triển web phía client:&lt;/strong&gt; JavaScript thường được sử dụng để tạo ra các hiệu ứng động, kiểm tra dữ liệu từ người dùng, và cải thiện trải nghiệm người dùng mà không cần tải lại trang web. Ví dụ, các form tương tác, popup, và các bảng điều khiển thông minh đều sử dụng JavaScript.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phát triển web phía server:&lt;/strong&gt; Với Node.js, JavaScript không chỉ chạy trên trình duyệt mà còn có thể chạy trên máy chủ, cho phép lập trình viên sử dụng một ngôn ngữ duy nhất cho cả front-end và back-end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Đặc điểm nổi bật javaScript</title>
+      <link>//localhost:1313/post/specialfeaturejs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/specialfeaturejs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ngôn ngữ lập trình kịch bản (Scripting Language):&lt;/strong&gt; JavaScript là một ngôn ngữ lập trình động, được sử dụng để viết mã cho các chức năng chạy trên trình duyệt. Chúng thường dùng để xử lý các tác vụ nhỏ, chẳng hạn như kiểm tra tính hợp lệ của form, tạo hiệu ứng động, hoặc thực hiện các tác vụ bất đồng bộ.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chạy trên trình duyệt:&lt;/strong&gt; JavaScript được tích hợp sẵn trong tất cả các trình duyệt web hiện đại (Chrome, Firefox, Safari, Edge), do đó, người dùng không cần cài đặt thêm phần mềm để chạy JavaScript. Điều này giúp JavaScript trở thành công cụ lý tưởng để phát triển ứng dụng web tương tác.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ES6 và các tính năng mới</title>
+      <link>//localhost:1313/post/newfeaturesjs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/newfeaturesjs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ES6 (ECMAScript 2015) là phiên bản JavaScript quan trọng, mang lại nhiều tính năng mới:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arrow functions:&lt;/strong&gt; Hàm mũi tên giúp viết hàm ngắn gọn và dễ hiểu hơn.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Template literals:&lt;/strong&gt; Cung cấp cách dễ dàng để tạo chuỗi với biến và biểu thức.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Destructuring assignment:&lt;/strong&gt; Cung cấp cú pháp ngắn gọn để gán giá trị từ mảng hoặc đối tượng vào các biến.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Modules:&lt;/strong&gt; ES6 cho phép chia mã nguồn thành các module, giúp mã dễ duy trì và tái sử dụng hơn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Framework và thư viện phổ biến</title>
+      <link>//localhost:1313/post/hotframework/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/hotframework/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;React.js:&lt;/strong&gt; Một thư viện JavaScript phổ biến để xây dựng giao diện người dùng, đặc biệt là các ứng dụng đơn trang (SPA).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vue.js:&lt;/strong&gt; Một framework JavaScript nhẹ và dễ sử dụng, thích hợp cho việc phát triển ứng dụng web tương tác.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angular:&lt;/strong&gt; Một framework mạnh mẽ của Google dùng để phát triển ứng dụng web một cách có cấu trúc và dễ duy trì.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Node.js:&lt;/strong&gt; Một runtime JavaScript chạy trên máy chủ, giúp phát triển các ứng dụng mạng và máy chủ với JavaScript.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu java</title>
+      <link>//localhost:1313/post/introducejava/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/introducejava/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất trên thế giới, được phát triển bởi Sun Microsystems (nay thuộc Oracle) vào năm 1995. Với khẩu hiệu nổi tiếng &amp;ldquo;Write Once, Run Anywhere&amp;rdquo; (WORA), Java được thiết kế để xây dựng các ứng dụng chạy trên nhiều nền tảng mà không cần chỉnh sửa mã nguồn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu javaScript</title>
+      <link>//localhost:1313/post/introducejs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/introducejs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;JavaScript (JS) là một ngôn ngữ lập trình động, được phát triển lần đầu tiên vào năm 1995 bởi Brendan Eich tại Netscape Communications. Mặc dù JavaScript ban đầu được thiết kế để chạy trong trình duyệt web, hiện nay nó đã trở thành một trong những ngôn ngữ lập trình phổ biến nhất, không chỉ trong phát triển web mà còn trong nhiều lĩnh vực khác như máy chủ (server), lập trình di động, và phát triển game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lý do học Java</title>
+      <link>//localhost:1313/post/reason/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/reason/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Dễ tiếp cận: Java phù hợp cho người mới bắt đầu vì cú pháp rõ ràng và logic.&lt;/li&gt;&#xA;&lt;li&gt;Cơ hội nghề nghiệp: Java có mặt trong hầu hết các lĩnh vực công nghệ, từ phát triển ứng dụng đến phân tích dữ liệu.&lt;/li&gt;&#xA;&lt;li&gt;Tính ổn định: Nhiều doanh nghiệp lớn vẫn dựa vào Java để phát triển các hệ thống quan trọng.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Tương lai của JavaScript</title>
+      <link>//localhost:1313/post/futureofjs/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/futureofjs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;JavaScript không chỉ giữ vững vị trí quan trọng trong phát triển web mà còn đang mở rộng vào nhiều lĩnh vực khác. Với sự phát triển của các công nghệ mới như WebAssembly, TypeScript (một superset của JavaScript), và sự phổ biến của các ứng dụng web thời gian thực, JavaScript sẽ tiếp tục là một công cụ mạnh mẽ và không thể thiếu trong phát triển phần mềm.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ứng dụng của Java</title>
+      <link>//localhost:1313/post/application/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/application/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;a. Phát triển phần mềm doanh nghiệp&lt;/strong&gt;&#xA;Java được sử dụng rộng rãi trong các hệ thống quản lý doanh nghiệp (ERP, CRM) nhờ khả năng mạnh mẽ và độ tin cậy cao.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;b. Lập trình di động&lt;/strong&gt;&#xA;Java là nền tảng chính để xây dựng các ứng dụng Android thông qua Android SDK.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;c. Phát triển web&lt;/strong&gt;&#xA;Với các framework như Spring, Hibernate, Java hỗ trợ phát triển các ứng dụng web phức tạp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ưu và nhược điểm học Java</title>
+      <link>//localhost:1313/post/strengthenandweekness/</link>
+      <pubDate>Tue, 24 Dec 2024 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/strengthenandweekness/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ưu điểm&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dễ học và sử dụng.&lt;/li&gt;&#xA;&lt;li&gt;Thư viện phong phú và cộng đồng lớn mạnh.&lt;/li&gt;&#xA;&lt;li&gt;Tính năng đa luồng hỗ trợ xử lý song song.&lt;/li&gt;&#xA;&lt;li&gt;Độc lập nền tảng, đảm bảo tính linh hoạt cao.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nhược điểm&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hiệu suất thấp hơn một số ngôn ngữ khác (C/C++).&lt;/li&gt;&#xA;&lt;li&gt;Cần nhiều tài nguyên hệ thống.&lt;/li&gt;&#xA;&lt;li&gt;Cấu trúc mã nguồn đôi khi phức tạp.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Tính năng của Java</title>
+      <link>//localhost:1313/post/features/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/post/features/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;a. Đa nền tảng&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java là ngôn ngữ độc lập với nền tảng (Platform-Independent). Điều này có nghĩa là mã Java được biên dịch thành bytecode và có thể chạy trên bất kỳ hệ điều hành nào hỗ trợ Java Virtual Machine (JVM).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;b. Hướng đối tượng&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java là ngôn ngữ lập trình hướng đối tượng (Object-Oriented Programming - OOP), giúp tổ chức mã nguồn dễ dàng hơn, tái sử dụng và mở rộng hiệu quả.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;c. Bảo mật cao&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bạn bè của tôi</title>
+      <link>//localhost:1313/friend/</link>
+      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      <guid>//localhost:1313/friend/</guid>
+      <description>&lt;h2 id=&#34;đường-dẫn&#34;&gt;&#xD;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%c4%91%c6%b0%e1%bb%9dng-d%e1%ba%abn&#34;&gt;&lt;/a&gt;&#xD;&#xA;Đường dẫn&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;friend-wrap&#34; data-aos=&#34;zoom-in&#34;&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;div class=&#34;friend-item-wrap&#34;&gt;&#xD;&#xA;      &lt;a href=&#34;https://nhdblog.netlify.app/&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xD;&#xA;      &lt;div class=&#34;friend-icon-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-icon&#34;&gt;&#xD;&#xA;          &lt;img&#xD;&#xA;            data-src=&#34;https://d-sketon.github.io/avatar/avatar.webp&#34;&#xD;&#xA;            data-sizes=&#34;auto&#34;&#xD;&#xA;            alt=&#34;Nguyễn Hữu Đạt&#34;&#xD;&#xA;            class=&#34;lazyload&#34;&#xD;&#xA;          /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;friend-info-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-name&#34;&gt;&#xD;&#xA;          Nguyễn Hữu Đạt&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;friend-desc&#34;&gt;&#xD;&#xA;          LOL&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;div class=&#34;friend-item-wrap&#34;&gt;&#xD;&#xA;      &lt;a href=&#34;https://dievis.github.io/&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xD;&#xA;      &lt;div class=&#34;friend-icon-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-icon&#34;&gt;&#xD;&#xA;          &lt;img&#xD;&#xA;            data-src=&#34;https://d-sketon.github.io/avatar/avatar.webp&#34;&#xD;&#xA;            data-sizes=&#34;auto&#34;&#xD;&#xA;            alt=&#34;Trần Phát Đạt&#34;&#xD;&#xA;            class=&#34;lazyload&#34;&#xD;&#xA;          /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;friend-info-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-name&#34;&gt;&#xD;&#xA;          Trần Phát Đạt&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;friend-desc&#34;&gt;&#xD;&#xA;          Lmao&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;div class=&#34;friend-item-wrap&#34;&gt;&#xD;&#xA;      &lt;a href=&#34;https://tckusername.github.io/&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xD;&#xA;      &lt;div class=&#34;friend-icon-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-icon&#34;&gt;&#xD;&#xA;          &lt;img&#xD;&#xA;            data-src=&#34;https://d-sketon.github.io/avatar/avatar.webp&#34;&#xD;&#xA;            data-sizes=&#34;auto&#34;&#xD;&#xA;            alt=&#34;Trần Chí Khanh&#34;&#xD;&#xA;            class=&#34;lazyload&#34;&#xD;&#xA;          /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;friend-info-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-name&#34;&gt;&#xD;&#xA;          Trần Chí Khanh&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;friend-desc&#34;&gt;&#xD;&#xA;          Bruh&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu về tôi</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Tôi là Nguyễn Hữu Đạt, hiện đang là sinh viên năm 4 của trường Đại học thành phố Hồ Chí Minh. Tôi có ước mơ trở thành lập trình viên về game cũng như là phát triển sự nghiệp lên project manager. Bên cạnh đó, tôi làm Blog này để chia sẻ về thông tin cũng như thành tựu tôi đã đạt được trong suốt quá trình học tập. Cuối cùng, tôi muốn mang đến những bài học về các ngôn ngữ lập trình để chia sẻ tới mọi người&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
