@@ -7,8 +7,8 @@ prev: Prev
 next: Next
 comment: Lượt bình luận
 reading: Lượt xem
-archive_a: Thành tựu
-archive_b: "Thành tựu: {{ . -}}"
+archive_a: Bài viết
+archive_b: "Bài viết: {{ . -}}"
 page: "Trang {{ . -}}"
 recent_posts: Những bài viết gần đây
 newer: Mới
@@ -23,7 +23,7 @@ toc: Contents
 home: Trang chủ
 about: Về tôi
 friend: Bạn bè
-archives: Thành tựu
+archives: Bài viết
 
 sidebar:
   post: Bài viết
