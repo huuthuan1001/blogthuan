@@ -1,6 +1,6 @@
 baseURL = 'https://nhdblog.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blog Của Nguyễn Hữu Đạt'
 theme = 'hugo-theme-reimu'
 
 

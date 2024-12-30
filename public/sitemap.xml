@@ -2,62 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/stater/</loc>
+    <loc>http://localhost:51367/post/homework/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/basicmeaningjs/</loc>
+    <loc>http://localhost:51367/post/stater/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/mainfeaturesjs/</loc>
+    <loc>http://localhost:51367/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/specialfeaturejs/</loc>
+    <loc>http://localhost:51367/post/basicmeaningjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/newfeaturesjs/</loc>
+    <loc>http://localhost:51367/post/mainfeaturesjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/hotframework/</loc>
+    <loc>http://localhost:51367/post/specialfeaturejs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/introducejava/</loc>
+    <loc>http://localhost:51367/post/newfeaturesjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/introducejs/</loc>
+    <loc>http://localhost:51367/post/hotframework/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/reason/</loc>
+    <loc>http://localhost:51367/post/introducejava/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:51367/post/introducejs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/futureofjs/</loc>
+    <loc>http://localhost:51367/post/reason/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/application/</loc>
+    <loc>http://localhost:51367/post/futureofjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/strengthenandweekness/</loc>
+    <loc>http://localhost:51367/post/application/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:51367/post/strengthenandweekness/</loc>
+    <lastmod>2024-12-24T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:51367/blog/</loc>
     <lastmod>2024-12-24T21:47:39+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/features/</loc>
+    <loc>http://localhost:51367/post/features/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:51367/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/friend/</loc>
+    <loc>http://localhost:51367/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:51367/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:51367/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:51367/tags/</loc>
   </url>
 </urlset>
