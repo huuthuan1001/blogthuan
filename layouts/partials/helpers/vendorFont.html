@@ -1,6 +1,6 @@
 {{ $fontDisplay := "&display=swap" }} {{ $fontStyles :=
 ":400,400italic,700,700italic" }} {{ $fontHost := "https://fonts.googleapis.com"
-}} {{ $basicConfigFontFamilies := (.Site.Params.font.article) | append
+}} {{ $basicConfigFontFamilies := slice (.Site.Params.font.article)
 (.Site.Params.font.code) }} {{ $fontFamilies := "" }} {{ range $index, $element
 := $basicConfigFontFamilies }} {{ if $element }} {{ $fontFamilies = printf
 "%s%s%s" $fontFamilies $element $fontStyles }} {{ if ne (add $index 1) (len
