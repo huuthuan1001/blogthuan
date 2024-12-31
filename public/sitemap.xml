@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/homework/</loc>
+    <loc>http://localhost:1313/blogthuan/post/homework/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/stater/</loc>
+    <loc>http://localhost:1313/blogthuan/post/stater/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/blogthuan/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/basicmeaningjs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/basicmeaningjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/mainfeaturesjs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/mainfeaturesjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/specialfeaturejs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/specialfeaturejs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/newfeaturesjs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/newfeaturesjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/hotframework/</loc>
+    <loc>http://localhost:1313/blogthuan/post/hotframework/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/introducejava/</loc>
+    <loc>http://localhost:1313/blogthuan/post/introducejava/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/introducejs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/introducejs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/reason/</loc>
+    <loc>http://localhost:1313/blogthuan/post/reason/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/futureofjs/</loc>
+    <loc>http://localhost:1313/blogthuan/post/futureofjs/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/application/</loc>
+    <loc>http://localhost:1313/blogthuan/post/application/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/strengthenandweekness/</loc>
+    <loc>http://localhost:1313/blogthuan/post/strengthenandweekness/</loc>
     <lastmod>2024-12-24T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blogthuan/blog/</loc>
     <lastmod>2024-12-24T21:47:39+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/features/</loc>
+    <loc>http://localhost:1313/blogthuan/post/features/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/blogthuan/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/friend/</loc>
+    <loc>http://localhost:1313/blogthuan/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/blogthuan/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/blogthuan/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blogthuan/tags/</loc>
   </url>
 </urlset>
