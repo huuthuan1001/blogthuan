@@ -1,4 +1,4 @@
-baseURL = 'https://huuthuan1001.github.io/blogthuan/'
+baseURL = 'https://blhuuthuan.netlify.app'
 languageCode = 'en-us'
 title = 'Blog Của Huu Thuan'
 theme = 'hugo-theme-reimu'
